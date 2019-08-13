@@ -1,6 +1,6 @@
-package com.oracle.s813;
+package com.chenhua;
 
-public class Test {
+public class Chenhua {
    public String name(){
 	   return "³Â»ª";
    }
